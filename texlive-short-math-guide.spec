@@ -1,6 +1,6 @@
 Name:		texlive-short-math-guide
 Version:	46126
-Release:	1
+Release:	2
 Summary:	Guide to using amsmath and related packages to typeset mathematical notation with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/short-math-guide
