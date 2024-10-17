@@ -3,7 +3,7 @@ Version:	46126
 Release:	2
 Summary:	Guide to using amsmath and related packages to typeset mathematical notation with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/short-math-guide
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/short-math-guide
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/short-math-guide.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/short-math-guide.doc.r%{version}.tar.xz
